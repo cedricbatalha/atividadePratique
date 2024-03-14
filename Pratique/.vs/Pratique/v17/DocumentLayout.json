@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AC678AC\\source\\repos\\AtividadePratique\\Pratique\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8571D735-F8DF-4493-8653-C0B80E71A809}|Pratique\\Pratique.csproj|c:\\users\\ac678ac\\source\\repos\\atividadepratique\\pratique\\pratique\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8571D735-F8DF-4493-8653-C0B80E71A809}|Pratique\\Pratique.csproj|solutionrelative:pratique\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8571D735-F8DF-4493-8653-C0B80E71A809}|Pratique\\Pratique.csproj|c:\\users\\ac678ac\\source\\repos\\atividadepratique\\pratique\\pratique\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8571D735-F8DF-4493-8653-C0B80E71A809}|Pratique\\Pratique.csproj|solutionrelative:pratique\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8571D735-F8DF-4493-8653-C0B80E71A809}|Pratique\\Pratique.csproj|c:\\users\\ac678ac\\source\\repos\\atividadepratique\\pratique\\pratique\\entities\\eventinscrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8571D735-F8DF-4493-8653-C0B80E71A809}|Pratique\\Pratique.csproj|solutionrelative:pratique\\entities\\eventinscrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8571D735-F8DF-4493-8653-C0B80E71A809}|Pratique\\Pratique.csproj|c:\\users\\ac678ac\\source\\repos\\atividadepratique\\pratique\\pratique\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8571D735-F8DF-4493-8653-C0B80E71A809}|Pratique\\Pratique.csproj|solutionrelative:pratique\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8571D735-F8DF-4493-8653-C0B80E71A809}|Pratique\\Pratique.csproj|c:\\users\\ac678ac\\source\\repos\\atividadepratique\\pratique\\pratique\\persistence\\eventsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8571D735-F8DF-4493-8653-C0B80E71A809}|Pratique\\Pratique.csproj|solutionrelative:pratique\\persistence\\eventsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8571D735-F8DF-4493-8653-C0B80E71A809}|Pratique\\Pratique.csproj|c:\\users\\ac678ac\\source\\repos\\atividadepratique\\pratique\\pratique\\pratique.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8571D735-F8DF-4493-8653-C0B80E71A809}|Pratique\\Pratique.csproj|solutionrelative:pratique\\pratique.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8571D735-F8DF-4493-8653-C0B80E71A809}|Pratique\\Pratique.csproj|c:\\users\\ac678ac\\source\\repos\\atividadepratique\\pratique\\pratique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8571D735-F8DF-4493-8653-C0B80E71A809}|Pratique\\Pratique.csproj|solutionrelative:pratique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8571D735-F8DF-4493-8653-C0B80E71A809}|Pratique\\Pratique.csproj|c:\\users\\ac678ac\\source\\repos\\atividadepratique\\pratique\\pratique\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8571D735-F8DF-4493-8653-C0B80E71A809}|Pratique\\Pratique.csproj|solutionrelative:pratique\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\AC678AC\\source\\repos\\AtividadePratique\\Pratique\\Pratique\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Pratique\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\AC678AC\\source\\repos\\AtividadePratique\\Pratique\\Pratique\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Pratique\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowFwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:20:34.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\AC678AC\\source\\repos\\AtividadePratique\\Pratique\\Pratique\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "Pratique\\Entities\\Event.cs",
+              "ToolTip": "C:\\Users\\AC678AC\\source\\repos\\AtividadePratique\\Pratique\\Pratique\\Entities\\Event.cs",
+              "RelativeToolTip": "Pratique\\Entities\\Event.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:20:03.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventInscrito.cs",
+              "DocumentMoniker": "C:\\Users\\AC678AC\\source\\repos\\AtividadePratique\\Pratique\\Pratique\\Entities\\EventInscrito.cs",
+              "RelativeDocumentMoniker": "Pratique\\Entities\\EventInscrito.cs",
+              "ToolTip": "C:\\Users\\AC678AC\\source\\repos\\AtividadePratique\\Pratique\\Pratique\\Entities\\EventInscrito.cs",
+              "RelativeToolTip": "Pratique\\Entities\\EventInscrito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:19:56.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\AC678AC\\source\\repos\\AtividadePratique\\Pratique\\Pratique\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Pratique\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\AC678AC\\source\\repos\\AtividadePratique\\Pratique\\Pratique\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Pratique\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:19:53.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventsDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\AC678AC\\source\\repos\\AtividadePratique\\Pratique\\Pratique\\Persistence\\EventsDBContext.cs",
+              "RelativeDocumentMoniker": "Pratique\\Persistence\\EventsDBContext.cs",
+              "ToolTip": "C:\\Users\\AC678AC\\source\\repos\\AtividadePratique\\Pratique\\Pratique\\Persistence\\EventsDBContext.cs",
+              "RelativeToolTip": "Pratique\\Persistence\\EventsDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:19:17.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AC678AC\\source\\repos\\AtividadePratique\\Pratique\\Pratique\\Program.cs",
+              "RelativeDocumentMoniker": "Pratique\\Program.cs",
+              "ToolTip": "C:\\Users\\AC678AC\\source\\repos\\AtividadePratique\\Pratique\\Pratique\\Program.cs",
+              "RelativeToolTip": "Pratique\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:13:18.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pratique.csproj",
+              "DocumentMoniker": "C:\\Users\\AC678AC\\source\\repos\\AtividadePratique\\Pratique\\Pratique\\Pratique.csproj",
+              "RelativeDocumentMoniker": "Pratique\\Pratique.csproj",
+              "ToolTip": "C:\\Users\\AC678AC\\source\\repos\\AtividadePratique\\Pratique\\Pratique\\Pratique.csproj",
+              "RelativeToolTip": "Pratique\\Pratique.csproj",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T14:11:52.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\AC678AC\\source\\repos\\AtividadePratique\\Pratique\\Pratique\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Pratique\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\AC678AC\\source\\repos\\AtividadePratique\\Pratique\\Pratique\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Pratique\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T14:17:30.18Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
